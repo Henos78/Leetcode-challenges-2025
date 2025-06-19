@@ -12,4 +12,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/0197-rising-temperature) |
 | [1135-customers-who-bought-all-products](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/1135-customers-who-bought-all-products) |
 | [1179-game-play-analysis-i](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/1179-game-play-analysis-i) |
+| [2041-the-latest-login-in-2020](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/2041-the-latest-login-in-2020) |
 <!---LeetCode Topics End-->
