@@ -15,5 +15,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1135-customers-who-bought-all-products](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/1135-customers-who-bought-all-products) |
 | [1179-game-play-analysis-i](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/1179-game-play-analysis-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/1338-queries-quality-and-percentage) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [2041-the-latest-login-in-2020](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/2041-the-latest-login-in-2020) |
 <!---LeetCode Topics End-->
