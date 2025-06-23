@@ -27,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/1908-recyclable-and-low-fat-products) |
 | [2041-the-latest-login-in-2020](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/2041-the-latest-login-in-2020) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/0392-is-subsequence) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
