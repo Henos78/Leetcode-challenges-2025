@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1135-customers-who-bought-all-products](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/1135-customers-who-bought-all-products) |
 | [1179-game-play-analysis-i](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/1179-game-play-analysis-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/1245-user-activity-for-the-past-30-days-i) |
+| [1258-article-views-i](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/1258-article-views-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/1338-queries-quality-and-percentage) |
 | [1523-capital-gainloss](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/1523-capital-gainloss) |
 | [1734-bank-account-summary-ii](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/1734-bank-account-summary-ii) |
