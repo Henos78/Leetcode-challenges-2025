@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0262-trips-and-users](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/0262-trips-and-users) |
 | [0584-find-customer-referee](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0595-big-countries](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/0607-sales-person) |
 | [1135-customers-who-bought-all-products](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/1135-customers-who-bought-all-products) |
 | [1179-game-play-analysis-i](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/1179-game-play-analysis-i) |
