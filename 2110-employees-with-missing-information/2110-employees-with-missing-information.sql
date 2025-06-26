@@ -1,11 +1,10 @@
 # Write your MySQL query statement below
-
-select employee_id from employees where employee_id not in (
-    select employee_id  from salaries
-) union
-select employee_id from salaries where employee_id not in (
-    select employee_id from employees
+with cte as(
+    select * from employees left join salaries using(employee_id)
+    union 
+    select * from employees right join salaries using(employee_id)
 )
+
+select employee_id from cte
+where name is null or salary is null
 order by employee_id
-
-
