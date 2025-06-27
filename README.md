@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/1258-article-views-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/1338-queries-quality-and-percentage) |
+| [1390-average-selling-price](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1523-capital-gainloss](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/1523-capital-gainloss) |
