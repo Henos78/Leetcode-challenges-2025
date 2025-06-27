@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-employees-with-missing-information](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/2110-employees-with-missing-information) |
 | [3530-odd-and-even-transactions](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/3530-odd-and-even-transactions) |
 | [3782-find-valid-emails](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/3782-find-valid-emails) |
+| [3865-find-product-recommendation-pairs](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/3865-find-product-recommendation-pairs) |
 ## Two Pointers
 |  |
 | ------- |
