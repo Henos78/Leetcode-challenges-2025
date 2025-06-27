@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2087-confirmation-rate](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/2087-confirmation-rate) |
 | [2110-employees-with-missing-information](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/2110-employees-with-missing-information) |
 | [3530-odd-and-even-transactions](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/3530-odd-and-even-transactions) |
+| [3782-find-valid-emails](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/3782-find-valid-emails) |
 ## Two Pointers
 |  |
 | ------- |
