@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-average-selling-price](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/1415-students-and-examinations) |
 | [1452-restaurant-growth](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/1452-restaurant-growth) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1523-capital-gainloss](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/1523-capital-gainloss) |
 | [1625-group-sold-products-by-the-date](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/1625-group-sold-products-by-the-date) |
