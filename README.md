@@ -87,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/0392-is-subsequence) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Henos78/Leetcode-challenges-2025/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
